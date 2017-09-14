@@ -1,0 +1,20 @@
+body {
+	background-image:url(https://i.ytimg.com/vi/UF8zJoRLrSI/maxresdefault.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+html {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+h1 {
+	color: white;
+}
+
+button {
+	width: 12em;
+	height: 3em;
+}
